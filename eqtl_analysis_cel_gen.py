@@ -6,11 +6,10 @@ import statsmodels.api as sm
 
 from tree_tools import generate_tree
 
-GENE_NAME = "mgi_symbol"
 GENE_CHR = "chromosome_name"
 GENE_START = "start_position"
 GENE_END = "end_position"
-GENE_NAME_INDEX = 1
+GENE_NAME_INDEX = 0
 SNP_NAME = "marker"
 SNP_CHR = "chromosome"
 SNP_POS = "bp"

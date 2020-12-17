@@ -1,0 +1,3 @@
+Example data was generated as described in the manuscript (Generation of synthetic data, Methods).
+The data includes 500 individuals, 1000 genes and SNPs, and 16 cell types.
+The effect size added to all the genes was 4 for immune cell types (STHSC.150- and its children), and 1 for the rest of the cell types.
